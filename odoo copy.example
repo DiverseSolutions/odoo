@@ -1,0 +1,14 @@
+[options]
+; Specify the Odoo addons path
+addons_path = addons
+
+; Database connection settings
+db_host = localhost
+db_port = 5434
+db_user = odoo
+db_password =
+db_name = odoo
+
+; Other common Odoo configurations
+admin_passwd = 
+logfile = /var/log/odoo.log
